@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 optee-teec = "0.0.1"
+indy = "1.6.7"
+serde_json = "1.0.61"
